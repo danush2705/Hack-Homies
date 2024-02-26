@@ -17,9 +17,6 @@ This repository contains files related to an interactive dashboard for visualizi
 1. **Dashboard Visualization:**
    - Open `dash_board.py` to access the interactive dashboard for visualizing patient insights.
 
-## Contributors
-
-- Contributors: [Your Name/Username]
 
 ## License
 
