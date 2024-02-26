@@ -40,9 +40,6 @@ This repository contains files related to predictive models for cancer detection
 3. **Combination Model:**
    - Utilize `final_comb_disease_mod.py` for the final combined model integrating breast and lung cancer detection.
 
-## Contributors
-
-- Contributors: [Your Name/Username]
 
 ## License
 
